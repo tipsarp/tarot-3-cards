@@ -1,4 +1,4 @@
-# Simple Digital Tarot Reading Platform
+# Three-card readings
 
 A minimal, self-contained R Shiny web application for pulling three-card tarot readings. Designed to run completely out-of-the-box with zero external UI packages or styling frameworks.
 
