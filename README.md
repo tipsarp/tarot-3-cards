@@ -16,8 +16,9 @@ A minimal, self-contained R Shiny web application for pulling three-card tarot r
 Your working directory should look like this:
 ```text
 ├── app.R
-└── cards
-        └── ... (Tarot card images)
+└── www
+     └── cards 
+            └── ... (Tarot card images)
 ```
 
 ---
